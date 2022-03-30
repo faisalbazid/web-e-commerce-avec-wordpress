@@ -3,6 +3,8 @@ https://dev-faisal-store.pantheonsite.io/
 
 # Theme : Astra
 
-# Plugins : Woocomerce, Elementor, WPForms Lite, YayMail
+# Plugins : Woocomerce, Elementor, WPForms Lite, YayMail.
 
 # code promo 50% pour l'article n'a pas de réduction : SOLICODE50
+
+# Source produits : https://www.jumia.ma/mlp-accessoires-mode/
